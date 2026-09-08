@@ -12,5 +12,3 @@ java -cp out org.howard.edu.lsp.assignment2.ETLPipeline
 
 Assignment 2 reads `data/employees.csv` and writes `data/transformed_employees.csv`.
 Compiled files and IDE configuration are excluded from version control.
-
-AI assistance: OpenAI Codex assisted with drafting the Java programs and syllabus responses, organizing files, and testing the output.
