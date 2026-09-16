@@ -8,6 +8,6 @@ I compiled both packages and ran Assignment 3 on the supplied input. It read 14 
 
 ## AI and external resources
 
-AI assistance was used to inspect Assignment 2, implement the refactor, and verify behavior. See the [AI interaction transcript](AI_TRANSCRIPT.md).
+I consulted AI while refactoring and testing the code. [Brief interaction record](AI_TRANSCRIPT.md).
 
 No Internet resources were used.
