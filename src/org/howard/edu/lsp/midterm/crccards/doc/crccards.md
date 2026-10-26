@@ -1,0 +1,3 @@
+# CRC collaboration explanation
+
+Library collaborates with Book because its CRC responsibilities include maintaining the collection, finding books, and coordinating borrowing and returning, so it calls Book's public operations. Book owns its information and availability validation and can perform those responsibilities without knowing which Library holds it. This one-way collaboration also allows a standalone Book to work independently. Library enforces the three-book borrowing limit because the rule concerns the combined state of its collection, while an individual Book only knows its own availability.
